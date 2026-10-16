@@ -2,7 +2,7 @@
 title: Dinner Agent Privacy Policy
 ---
 
-Effective October 15, 2026. Last updated October 15, 2026.
+Effective October 15, 2026. Last updated October 16, 2026.
 
 Dinner Agent is an iPhone and iPad app that helps your household plan dinners, keep track of food and shop. It’s made by Zack Gabbard (“we”, “us”). This policy explains what we collect, where it goes, how long we keep it and the choices you have. Contact: dinneragent28@gmail.com.
 

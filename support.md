@@ -14,7 +14,7 @@ Questions or problems? Email [**dinneragent28@gmail.com**](mailto:dinneragent28@
 
 ## Plans
 
-- **Free:** pantry, grocery list, weekly plans, your recipes, cooking mode and allergy checks.
+- **Free:** pantry, grocery list, weekly plans, your recipes, cooking mode and allergy checks. Free includes 250 built-in recipes that change each month; Plus opens every recipe.
 - **Plus** ($6.99 a month or $59.99 a year, US): Chef, receipt scans, recipe imports and Chef-written plans for the whole household, plus 5 call minutes a month.
 - **Chef Live** ($4.99 a month or $44.99 a year, US): up to 30 minutes a month of calls with Chef.
 - **Plus + Chef Live** ($9.99 a month or $99.99 a year, US): both together, with up to 30 call minutes a month.
