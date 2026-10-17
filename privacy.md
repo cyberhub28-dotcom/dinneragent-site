@@ -2,9 +2,9 @@
 title: Dinner Agent Privacy Policy
 ---
 
-Effective October 15, 2026. Last updated October 16, 2026.
+Effective October 15, 2026. Last updated October 17, 2026.
 
-Dinner Agent is an iPhone and iPad app that helps your household plan dinners, keep track of food and shop. It’s made by Zack Gabbard (“we”, “us”). This policy explains what we collect, where it goes, how long we keep it and the choices you have. Contact: dinneragent28@gmail.com.
+Dinner Agent is an iPhone app that helps your household plan dinners, keep track of food and shop. It’s made by Zack Gabbard (“we”, “us”). This policy explains what we collect, where it goes, how long we keep it and the choices you have. Contact: dinneragent28@gmail.com.
 
 ## The short version
 Most of your kitchen stays on your iPhone. Our server keeps a random household ID, your plan and how much AI you used. When you turn Chef on, what Chef needs to answer you goes to Claude (by Anthropic) and, on calls and steps read aloud, to Grok (by xAI). Neither company uses it to train AI. We don’t sell or share your information, show ads or track you.
@@ -22,12 +22,12 @@ Only if you turn on Share your kitchen: your household profiles, pantry, weekly 
 To run Plus, Chef and calls, our server keeps:
 
 - a random household ID, and a secret code that links your household’s phones to it
-- a security key for each install of the app, checked with Apple’s App Attest (or Apple’s DeviceCheck), so only the real app on a real iPhone or iPad can use Chef
+- a security key for each install of the app, checked with Apple’s App Attest (or Apple’s DeviceCheck), so only the real app on a real Apple device can use Chef
 - your plan (Free, Plus or Chef Live, and whether it’s in Apple’s free week), which App Store product it is, and when it renews or ends
 - Apple’s ID for your purchase, so one purchase can’t be used by other households, and whether a purchase was refunded
 - counts of how much AI your household used and what it cost us
 
-For each Chef call we keep only how long it lasted and technical numbers used to fix problems: sound levels and how quickly Chef answered. We never record your voice or what was said.
+For each Chef call we keep only how long it lasted and technical numbers used to fix problems: how quickly Chef answered and how often you talked over it. We never record your voice or what was said.
 
 Receipts, order screenshots and recipes you ask us to read pass through our server to Claude and aren’t stored by us. When you import a recipe link, your iPhone opens the page, like Safari would. If it can’t, our server opens it instead. If you report one of Chef’s answers, we keep that answer and your note for up to 1 year so a person can review it.
 
@@ -72,7 +72,7 @@ We don’t sell or share your personal information (including “sharing” for 
 | Profiles, pantry, plans, recipes, photos, chats, Chef memory, saved read-aloud audio | Your iPhone (and iCloud if sharing) | Until you delete them or your account |
 | Household ID, household secret, app security keys, plan and renew/end dates | Our server | Until the last adult deletes the account |
 | Reported answers and notes | Our server | Up to 1 year, or until account deletion if sooner |
-| AI usage and cost counts; call lengths and call diagnostics (sound levels and response times, never audio) | Our server | Kept as totals. On deletion, unlinked from you |
+| AI usage and cost counts; call lengths and call diagnostics (response times, never audio) | Our server | Kept as totals. On deletion, unlinked from you |
 | Apple purchase ID and refund records | Our server | Kept after deletion, unlinked from your household, so a purchase can’t be reused |
 | Request counts by IP address | Our server | About 10 minutes |
 | Read-aloud audio of recipe steps | Our server | Up to 1 year |
@@ -98,7 +98,7 @@ In the last 12 months, the categories of information we handled were:
 
 - identifiers (random household ID, app security keys, Apple purchase ID, IP address for abuse limits)
 - purchase records
-- app usage counts and call diagnostics (how long each call lasted, its sound levels and how quickly Chef answered, never audio)
+- app usage counts and call diagnostics (how long each call lasted and how quickly Chef answered, never audio)
 - content you send to Chef, which can include sensitive allergy and diet details
 - support emails
 

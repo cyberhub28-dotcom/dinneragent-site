@@ -2,7 +2,7 @@
 title: Dinner Agent Support
 ---
 
-Questions or problems? Email [**dinneragent28@gmail.com**](mailto:dinneragent28@gmail.com). We reply within 2 business days. Please include your iPhone or iPad model, your iOS version, your Dinner Agent version and, if it's about your plan, your household ID. Both are in **Settings → About**.
+Questions or problems? Email [**dinneragent28@gmail.com**](mailto:dinneragent28@gmail.com). We reply within 2 business days. Please include your iPhone model, your iOS version, your Dinner Agent version and, if it's about your plan, your household ID. Both are in **Settings → About**.
 
 **What Dinner Agent does.** Dinner Agent keeps your pantry, this week's dinners and one grocery list in step, for the whole household. Every dinner is checked against everyone's allergies and diets. Chef, an AI personal chef, can plan your week, swap dinners, read receipts, import recipes and talk you through cooking.
 
@@ -19,7 +19,7 @@ Questions or problems? Email [**dinneragent28@gmail.com**](mailto:dinneragent28@
 - **Chef Live** ($4.99 a month or $44.99 a year, US): up to 30 minutes a month of calls with Chef.
 - **Plus + Chef Live** ($9.99 a month or $99.99 a year, US): both together, with up to 30 call minutes a month.
 - The price shown in the App Store before you buy is the one that applies. Unused minutes don't carry over. Each plan has a fair monthly amount of AI use.
-- **Free week:** new subscribers may get a free week from Apple, once per Apple Account for each subscription group. During the free week, Chef gives shorter answers and calls are limited to 2 minutes. Cancel at least 24 hours before it ends and you won't be charged.
+- **Free week:** new subscribers may get a free week from Apple, once per Apple Account for each subscription group. During the free week, Chef gives shorter answers and you get 2 minutes of calls in total. Cancel at least 24 hours before it ends and you won't be charged.
 
 **Cancel.** iPhone Settings → your name → Subscriptions, or in the app under Settings → Manage subscription. Cancel at least 24 hours before renewal. You keep access until the end of the period you paid for.
 
@@ -44,7 +44,7 @@ Questions or problems? Email [**dinneragent28@gmail.com**](mailto:dinneragent28@
 
 - **Chef doesn't answer:** check that Chef is on (Settings → Chef) and you're online. If your household reached its fair monthly limit, AI pauses until the 1st and everything else keeps working.
 - **Steps are read in a different voice:** with Chef off, steps are read by your iPhone's own voice. Turn Chef on to hear Chef's voice.
-- **A call ends early:** calls end when your minutes for the month run out, or after 2 minutes during the free week.
+- **A call ends early:** calls end when your minutes for the month run out, or when the free week's 2 minutes of calls are used up.
 - **Plus isn't showing:** tap Restore purchases. If your purchase is waiting for approval (Ask to Buy), Plus turns on once it's approved.
 - **No expiry alerts:** turn on notifications for Dinner Agent in your iPhone's Settings.
 
