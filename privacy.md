@@ -48,7 +48,7 @@ Claude, by Anthropic, receives:
 
 Grok, by xAI, receives your voice and the same kitchen notes during a call with Chef, and the words of recipe steps read aloud in Chef’s voice.
 
-Names from profiles are swapped for labels like “Person A” before anything is sent. Anything you type or say to Chef is sent as you said it, including any names you use. Neither company receives your household ID or your Apple ID.
+Names from profiles are swapped for labels like “Person A” before anything is sent, including in what you type. Your voice on calls is sent as you say it, and names that aren’t in a profile are sent as written. Neither company receives your household ID or your Apple ID.
 
 Neither company uses any of it to train AI. Anthropic usually deletes what it receives within 30 days, and keeps it longer only if it’s flagged for misuse or the law requires it. xAI uses it only to answer, then deletes it.
 
@@ -57,7 +57,7 @@ Chef’s answers, recipes and voice are made by AI, and the app labels them that
 ## Read-aloud and barcodes
 When a step is read aloud in Chef’s voice, the audio made from that step’s words is kept on our server for up to a year, so the same step doesn’t have to be made again. That includes steps from recipes you added. It holds only the step’s words turned into speech: never your voice, your name or who asked.
 
-When you scan a barcode, the barcode number is looked up in Open Food Facts, a free public food database, to find the product’s name. Nothing else about you is sent.
+When you scan a barcode, the barcode number is looked up in Open Food Facts, a free public food database, to find the product’s name. Your iPhone asks Open Food Facts directly, so, like any website, it sees your internet (IP) address. Nothing else about you is sent.
 
 ## Apple
 Subscriptions are bought and managed through Apple. Apple tells us whether a purchase is active. It never shares your card details with us. Reminders and alerts are scheduled by your iPhone.
@@ -92,7 +92,7 @@ Wherever you live, you can ask us to:
 
 Residents of California (CCPA/CPRA) and of other states with privacy laws, including Virginia, Colorado, Connecticut, Utah, Texas, Oregon and others, have these rights by law. They also have the right to appeal a decision and to not be treated differently for using them.
 
-To make a request, email dinneragent28@gmail.com, or use Settings → Delete account. We’ll verify the request using your household ID (Settings → About), reply within 45 days, and may ask you to confirm from the app. If we decline, reply to our answer to appeal. You can use an authorized agent.
+To make a request, email dinneragent28@gmail.com, or use Settings → Delete account. We’ll check it’s you before we act, for example by asking you to confirm the request from the Dinner Agent app on your phone, and we reply within 45 days. If we decline, reply to our answer to appeal. You can use an authorized agent.
 
 In the last 12 months, the categories of information we handled were:
 
@@ -105,7 +105,7 @@ In the last 12 months, the categories of information we handled were:
 They came from you, your iPhone and Apple, and were used only to run the app. They were disclosed only to service providers: Anthropic, xAI, Apple, Cloudflare (our server host), Google (our email) and Open Food Facts (barcode numbers only).
 
 ## Allergies, diets and health information
-Allergies and diets are sensitive information, and some states (such as Washington, Nevada and Connecticut) call them consumer health data. We collect them only when you enter them, use them only to check food and answer you, and share them only with Anthropic and xAI to do that, and only when Chef is on. We never sell them, use them for ads or use them to infer anything else about you. To see or remove them, edit or delete a profile, turn Chef off, or use Settings → Delete account. To ask what we have or to have it deleted, email dinneragent28@gmail.com.
+Allergies and diets are sensitive information, and some states (such as Washington, Nevada and Connecticut) call them consumer health data. We collect them only when you enter them, use them only to check food and answer you, and share them only with Anthropic and xAI to do that, and only when Chef is on. We never sell them, use them for ads or use them to infer anything else about you. To see or remove them, edit or delete a profile, turn Chef off, or use Settings → Delete account. To ask what we have or to have it deleted, email dinneragent28@gmail.com. Read more in our Consumer Health Data Privacy Policy: https://cyberhub28-dotcom.github.io/dinneragent-site/health-data
 
 ## Children
 The app is for adults 18 and over. Kids can be part of a household profile set up by an adult, but we don’t knowingly collect information from children. If you think a child has used the app, email us and we’ll delete it.
