@@ -4,7 +4,7 @@ title: Dinner Agent Consumer Health Data Privacy Policy
 
 Effective October 15, 2026. Last updated October 17, 2026.
 
-This page is for people in Washington, Nevada and other states with consumer health data laws. It adds to our Privacy Policy. Dinner Agent is made by Zack Gabbard ("we", "us"). Contact: dinneragent28@gmail.com.
+This page is for people in Washington, Nevada and other states with consumer health data laws. It adds to our Privacy Policy. Dinner Agent is made by Zack Gabbard ("we", "us"). Contact: support@cyberhubsoftware.com.
 
 ## What we collect
 Allergies, food intolerances and diets you enter for people in your household, for example "peanut allergy" or "vegetarian". We don't collect any other health data.
@@ -26,4 +26,4 @@ Only when Chef is on: Anthropic (Claude), and xAI (Grok) on calls and steps read
 - See it: Settings → Household shows every profile.
 - Delete it: edit or delete a profile, or Settings → Delete account.
 - Stop sharing it: turn Chef off in Settings → Chef.
-- Ask us anything, or appeal a decision: email dinneragent28@gmail.com. We reply within 45 days.
+- Ask us anything, or appeal a decision: email support@cyberhubsoftware.com. We reply within 45 days.

@@ -4,7 +4,7 @@ title: Dinner Agent Privacy Policy
 
 Effective October 15, 2026. Last updated October 17, 2026.
 
-Dinner Agent is an iPhone app that helps your household plan dinners, keep track of food and shop. It’s made by Zack Gabbard (“we”, “us”). This policy explains what we collect, where it goes, how long we keep it and the choices you have. Contact: dinneragent28@gmail.com.
+Dinner Agent is an iPhone app that helps your household plan dinners, keep track of food and shop. It’s made by Zack Gabbard (“we”, “us”). This policy explains what we collect, where it goes, how long we keep it and the choices you have. Contact: support@cyberhubsoftware.com.
 
 ## The short version
 Most of your kitchen stays on your iPhone. Our server keeps a random household ID, your plan and how much AI you used. When you turn Chef on, what Chef needs to answer you goes to Claude (by Anthropic) and, on calls and steps read aloud, to Grok (by xAI). Neither company uses it to train AI. We don’t sell or share your information, show ads or track you.
@@ -92,7 +92,7 @@ Wherever you live, you can ask us to:
 
 Residents of California (CCPA/CPRA) and of other states with privacy laws, including Virginia, Colorado, Connecticut, Utah, Texas, Oregon and others, have these rights by law. They also have the right to appeal a decision and to not be treated differently for using them.
 
-To make a request, email dinneragent28@gmail.com, or use Settings → Delete account. We’ll check it’s you before we act, for example by asking you to confirm the request from the Dinner Agent app on your phone, and we reply within 45 days. If we decline, reply to our answer to appeal. You can use an authorized agent.
+To make a request, email support@cyberhubsoftware.com, or use Settings → Delete account. We’ll check it’s you before we act, for example by asking you to confirm the request from the Dinner Agent app on your phone, and we reply within 45 days. If we decline, reply to our answer to appeal. You can use an authorized agent.
 
 In the last 12 months, the categories of information we handled were:
 
@@ -105,7 +105,7 @@ In the last 12 months, the categories of information we handled were:
 They came from you, your iPhone and Apple, and were used only to run the app. They were disclosed only to service providers: Anthropic, xAI, Apple, Cloudflare (our server host), Google (our email) and Open Food Facts (barcode numbers only).
 
 ## Allergies, diets and health information
-Allergies and diets are sensitive information, and some states (such as Washington, Nevada and Connecticut) call them consumer health data. We collect them only when you enter them, use them only to check food and answer you, and share them only with Anthropic and xAI to do that, and only when Chef is on. We never sell them, use them for ads or use them to infer anything else about you. To see or remove them, edit or delete a profile, turn Chef off, or use Settings → Delete account. To ask what we have or to have it deleted, email dinneragent28@gmail.com. Read more in our Consumer Health Data Privacy Policy: <https://cyberhub28-dotcom.github.io/dinneragent-site/health-data>
+Allergies and diets are sensitive information, and some states (such as Washington, Nevada and Connecticut) call them consumer health data. We collect them only when you enter them, use them only to check food and answer you, and share them only with Anthropic and xAI to do that, and only when Chef is on. We never sell them, use them for ads or use them to infer anything else about you. To see or remove them, edit or delete a profile, turn Chef off, or use Settings → Delete account. To ask what we have or to have it deleted, email support@cyberhubsoftware.com. Read more in our Consumer Health Data Privacy Policy: <https://cyberhub28-dotcom.github.io/dinneragent-site/health-data>
 
 ## Children
 The app is for adults 18 and over. Kids can be part of a household profile set up by an adult, but we don’t knowingly collect information from children. If you think a child has used the app, email us and we’ll delete it.
@@ -118,10 +118,10 @@ Data in transit is encrypted. Our server doesn’t store names or chats, except 
 - Turn Chef off: Settings → Chef.
 - See or clear what Chef remembers: Settings → What Chef remembers.
 - Delete everything: Settings → Delete account. This erases the data on your phone. For the last adult, it also deletes your household’s record, app security keys and reported answers on our server. Usage counts and Apple purchase records stay only unlinked from you. Backups of deleted records are gone within 30 days.
-- Ask for a copy of your server data, or anything else: email dinneragent28@gmail.com.
+- Ask for a copy of your server data, or anything else: email support@cyberhubsoftware.com.
 
 ## Changes
 If this policy changes, we’ll post the new version here and in the app before it takes effect, and update the dates above.
 
 ## Contact
-Zack Gabbard, dinneragent28@gmail.com
+Zack Gabbard, support@cyberhubsoftware.com
