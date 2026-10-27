@@ -2,9 +2,9 @@
 title: Dinner Agent Privacy Policy
 ---
 
-Effective October 15, 2026. Last updated October 17, 2026.
+Effective October 15, 2026. Last updated October 26, 2026.
 
-Dinner Agent is an iPhone app that helps your household plan dinners, keep track of food and shop. It’s made by Zack Gabbard (“we”, “us”). This policy explains what we collect, where it goes, how long we keep it and the choices you have. Contact: support@cyberhubsoftware.com.
+Dinner Agent is an iPhone app that helps your household plan dinners, keep track of food and shop. It’s made by CyberHub Software, LLC (“we”, “us”). This policy explains what we collect, where it goes, how long we keep it and the choices you have. Contact: support@cyberhubsoftware.com.
 
 ## The short version
 Most of your kitchen stays on your iPhone. Our server keeps a random household ID, your plan and how much AI you used. When you turn Chef on, what Chef needs to answer you goes to Claude (by Anthropic) and, on calls and steps read aloud, to Grok (by xAI). Neither company uses it to train AI. We don’t sell or share your information, show ads or track you.
@@ -23,18 +23,20 @@ To run Plus, Chef and calls, our server keeps:
 
 - a random household ID, and a secret code that links your household’s phones to it
 - a security key for each install of the app, checked with Apple’s App Attest (or Apple’s DeviceCheck), so only the real app on a real Apple device can use Chef
-- your plan (Free, Plus or Chef Live, and whether it’s in Apple’s free week), which App Store product it is, and when it renews or ends
+- your plan (Free, Plus, or Plus + Chef Live, and whether it’s in Apple’s free week), which App Store product it is, and when it renews or ends
 - Apple’s ID for your purchase, so one purchase can’t be used by other households, and whether a purchase was refunded
 - counts of how much AI your household used and what it cost us
 
-For each Chef call we keep only how long it lasted and technical numbers used to fix problems: how quickly Chef answered and how often you talked over it. We never record your voice or what was said.
+For each Chef call we keep only how long it lasted and technical numbers used to fix problems: how quickly Chef answered and how often you talked over it. We never record your voice or what was said. While a call is on, our server also holds the kitchen notes Chef uses on that call (with names from profiles already swapped for labels), and deletes them when the call ends.
 
-Receipts, order screenshots and recipes you ask us to read pass through our server to Claude and aren’t stored by us. When you import a recipe link, your iPhone opens the page, like Safari would. If it can’t, our server opens it instead. If you report one of Chef’s answers, we keep that answer and your note for up to 1 year so a person can review it.
+Receipts, order screenshots and recipes you ask us to read pass through our server to Claude and aren’t stored by us. When you import a recipe link, your iPhone opens the page, like Safari would. If it can’t, our server opens it instead. If you report one of Chef’s answers, we keep that answer and your note for up to 1 year so a person can review it. Before a report is sent, names, allergies and diets from your profiles are swapped for labels like “Person A”, “[allergy]” and “[diet]” in the answer and your note.
 
 To stop abuse, our server briefly counts requests from each internet (IP) address; those counts are deleted within about 10 minutes. Our server host, Cloudflare, keeps short technical logs (which feature was used, whether it worked, and the first few characters of the household ID, never what you said) for a short time.
 
 ## Emails to us
 If you email us, we use your email address and message only to help you. They’re kept in our email (Gmail, by Google) for as long as we need them to help you, and we delete them if you ask.
+
+Emails you send to support@cyberhubsoftware.com are forwarded by Cloudflare Email Routing to our Google Gmail inbox; Cloudflare and Google handle them only to deliver and store your message.
 
 ## AI partners
 Chef’s AI is used only after you turn Chef on.
@@ -73,6 +75,7 @@ We don’t sell or share your personal information (including “sharing” for 
 | Household ID, household secret, app security keys, plan and renew/end dates | Our server | Until the last adult deletes the account |
 | Reported answers and notes | Our server | Up to 1 year, or until account deletion if sooner |
 | AI usage and cost counts; call lengths and call diagnostics (response times, never audio) | Our server | Kept as totals. On deletion, unlinked from you |
+| Chef’s kitchen notes for a call in progress | Our server | Until the call ends (at most about 17 minutes) |
 | Apple purchase ID and refund records | Our server | Kept after deletion, unlinked from your household, so a purchase can’t be reused |
 | Request counts by IP address | Our server | About 10 minutes |
 | Read-aloud audio of recipe steps | Our server | Up to 1 year |
@@ -105,23 +108,23 @@ In the last 12 months, the categories of information we handled were:
 They came from you, your iPhone and Apple, and were used only to run the app. They were disclosed only to service providers: Anthropic, xAI, Apple, Cloudflare (our server host), Google (our email) and Open Food Facts (barcode numbers only).
 
 ## Allergies, diets and health information
-Allergies and diets are sensitive information, and some states (such as Washington, Nevada and Connecticut) call them consumer health data. We collect them only when you enter them, use them only to check food and answer you, and share them only with Anthropic and xAI to do that, and only when Chef is on. We never sell them, use them for ads or use them to infer anything else about you. To see or remove them, edit or delete a profile, turn Chef off, or use Settings → Delete account. To ask what we have or to have it deleted, email support@cyberhubsoftware.com. Read more in our Consumer Health Data Privacy Policy: <https://cyberhub28-dotcom.github.io/dinneragent-site/health-data>
+Allergies and diets are sensitive information, and some states (such as Washington, Nevada and Connecticut) call them consumer health data. We collect them only when you enter them, use them only to check food and answer you, and share them only with Anthropic and xAI to do that, and only when Chef is on. We never sell them, use them for ads or use them to infer anything else about you. To see or remove them, edit or delete a profile, turn Chef off, or use Settings → Delete account. To ask what we have or to have it deleted, email support@cyberhubsoftware.com. Read more in our Consumer Health Data Privacy Policy: https://cyberhub28-dotcom.github.io/dinneragent-site/health-data
 
 ## Children
 The app is for adults 18 and over. Kids can be part of a household profile set up by an adult, but we don’t knowingly collect information from children. If you think a child has used the app, email us and we’ll delete it.
 
 ## Security
-Data in transit is encrypted. Our server doesn’t store names or chats, except an answer you choose to report. Only the real app, checked by Apple, can use Chef. No system is perfectly secure, so we keep as little as we can.
+Data in transit is encrypted. Our server doesn’t store names or chats, except an answer you choose to report, with names, allergies and diets from your profiles swapped for labels first. Only the real app, checked by Apple, can use Chef. No system is perfectly secure, so we keep as little as we can.
 
 ## Your choices
 
 - Turn Chef off: Settings → Chef.
 - See or clear what Chef remembers: Settings → What Chef remembers.
-- Delete everything: Settings → Delete account. This erases the data on your phone. For the last adult, it also deletes your household’s record, app security keys and reported answers on our server. Usage counts and Apple purchase records stay only unlinked from you. Backups of deleted records are gone within 30 days.
+- Delete everything: Settings → Delete account. This erases the data on your phone. If you signed in with Apple, we also ask Apple to remove Dinner Agent’s sign-in. For the last adult, it also deletes your household’s record, app security keys and reported answers on our server. Usage counts and Apple purchase records stay only unlinked from you. Backups of deleted records are gone within 30 days.
 - Ask for a copy of your server data, or anything else: email support@cyberhubsoftware.com.
 
 ## Changes
 If this policy changes, we’ll post the new version here and in the app before it takes effect, and update the dates above.
 
 ## Contact
-Zack Gabbard, support@cyberhubsoftware.com
+CyberHub Software, LLC, support@cyberhubsoftware.com

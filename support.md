@@ -16,10 +16,9 @@ Questions or problems? Email [**support@cyberhubsoftware.com**](mailto:support@c
 
 - **Free:** pantry, grocery list, weekly plans, your recipes, cooking mode and allergy checks. Free includes 250 built-in recipes that change each month; Plus opens every recipe.
 - **Plus** ($6.99 a month or $59.99 a year, US): Chef, receipt scans, recipe imports and Chef-written plans for the whole household, plus 5 call minutes a month.
-- **Chef Live** ($4.99 a month or $44.99 a year, US): up to 30 minutes a month of calls with Chef.
-- **Plus + Chef Live** ($9.99 a month or $99.99 a year, US): both together, with up to 30 call minutes a month.
+- **Plus + Chef Live** ($9.99 a month or $99.99 a year, US): everything in Plus, with up to 30 call minutes a month.
 - The price shown in the App Store before you buy is the one that applies. Unused minutes don't carry over. Each plan has a fair monthly amount of AI use.
-- **Free week:** new subscribers may get a free week from Apple, once per Apple Account for each subscription group. During the free week, Chef gives shorter answers and you get 2 minutes of calls in total. Cancel at least 24 hours before it ends and you won't be charged.
+- **Free week:** new subscribers may get a free week from Apple, once per Apple Account for each subscription group. During the free week, Chef answers in chat with shorter answers; calls with Chef start when your plan does. Cancel at least 24 hours before it ends and you won't be charged.
 
 **Cancel.** iPhone Settings → your name → Subscriptions, or in the app under Settings → Manage subscription. Cancel at least 24 hours before renewal. You keep access until the end of the period you paid for.
 
@@ -44,10 +43,10 @@ Questions or problems? Email [**support@cyberhubsoftware.com**](mailto:support@c
 
 - **Chef doesn't answer:** check that Chef is on (Settings → Chef) and you're online. If your household reached its fair monthly limit, AI pauses until the 1st and everything else keeps working.
 - **Steps are read in a different voice:** with Chef off, steps are read by your iPhone's own voice. Turn Chef on to hear Chef's voice.
-- **A call ends early:** calls end when your minutes for the month run out, or when the free week's 2 minutes of calls are used up.
+- **A call ends early:** calls end when your minutes for the month run out. Calls with Chef start when your plan does, not during the free week.
 - **Plus isn't showing:** tap Restore purchases. If your purchase is waiting for approval (Ask to Buy), Plus turns on once it's approved.
 - **No expiry alerts:** turn on notifications for Dinner Agent in your iPhone's Settings.
 
 **Privacy.** Read the privacy policy: <https://cyberhub28-dotcom.github.io/dinneragent-site/privacy>
 
-© 2026 Zack Gabbard
+© 2026 CyberHub Software, LLC
