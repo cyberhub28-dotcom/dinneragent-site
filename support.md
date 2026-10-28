@@ -47,6 +47,8 @@ Questions or problems? Email [**support@cyberhubsoftware.com**](mailto:support@c
 - **Plus isn't showing:** tap Restore purchases. If your purchase is waiting for approval (Ask to Buy), Plus turns on once it's approved.
 - **No expiry alerts:** turn on notifications for Dinner Agent in your iPhone's Settings.
 
+**Terms.** Read our Terms of Use: <https://cyberhub28-dotcom.github.io/dinneragent-site/terms>
+
 **Privacy.** Read the privacy policy: <https://cyberhub28-dotcom.github.io/dinneragent-site/privacy>
 
 © 2026 CyberHub Software, LLC

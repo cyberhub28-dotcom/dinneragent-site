@@ -2,7 +2,7 @@
 title: Dinner Agent Privacy Policy
 ---
 
-Effective October 15, 2026. Last updated October 26, 2026.
+Effective October 15, 2026. Last updated October 29, 2026.
 
 Dinner Agent is an iPhone app that helps your household plan dinners, keep track of food and shop. It’s made by CyberHub Software, LLC (“we”, “us”). This policy explains what we collect, where it goes, how long we keep it and the choices you have. Contact: support@cyberhubsoftware.com.
 
@@ -29,6 +29,8 @@ To run Plus, Chef and calls, our server keeps:
 
 For each Chef call we keep only how long it lasted and technical numbers used to fix problems: how quickly Chef answered and how often you talked over it. We never record your voice or what was said. While a call is on, our server also holds the kitchen notes Chef uses on that call (with names from profiles already swapped for labels), and deletes them when the call ends.
 
+On a call, Chef hears what your iPhone’s microphone picks up, which can include other people in the room. Their voices are handled the same way as yours: sent to xAI so Chef can answer, and never recorded by us. Let people nearby know before you start a call.
+
 Receipts, order screenshots and recipes you ask us to read pass through our server to Claude and aren’t stored by us. When you import a recipe link, your iPhone opens the page, like Safari would. If it can’t, our server opens it instead. If you report one of Chef’s answers, we keep that answer and your note for up to 1 year so a person can review it. Before a report is sent, names, allergies and diets from your profiles are swapped for labels like “Person A”, “[allergy]” and “[diet]” in the answer and your note.
 
 To stop abuse, our server briefly counts requests from each internet (IP) address; those counts are deleted within about 10 minutes. Our server host, Cloudflare, keeps short technical logs (which feature was used, whether it worked, and the first few characters of the household ID, never what you said) for a short time.
@@ -36,7 +38,7 @@ To stop abuse, our server briefly counts requests from each internet (IP) addres
 ## Emails to us
 If you email us, we use your email address and message only to help you. They’re kept in our email (Gmail, by Google) for as long as we need them to help you, and we delete them if you ask.
 
-Emails you send to support@cyberhubsoftware.com are forwarded by Cloudflare Email Routing to our Google Gmail inbox; Cloudflare and Google handle them only to deliver and store your message.
+Emails you send to support@cyberhubsoftware.com arrive in our Google Workspace mailbox (Gmail, by Google). Google handles them only to deliver and store your message.
 
 ## AI partners
 Chef’s AI is used only after you turn Chef on.

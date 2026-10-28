@@ -2,7 +2,7 @@
 title: Dinner Agent Consumer Health Data Privacy Policy
 ---
 
-Effective October 15, 2026. Last updated October 26, 2026.
+Effective October 15, 2026. Last updated October 29, 2026.
 
 This page is for people in Washington, Nevada and other states with consumer health data laws. It adds to our Privacy Policy. Dinner Agent is made by CyberHub Software, LLC ("we", "us"). Contact: support@cyberhubsoftware.com.
 
