@@ -4,6 +4,10 @@ title: Dinner Agent Support
 
 Questions or problems? Email [**support@cyberhubsoftware.com**](mailto:support@cyberhubsoftware.com). We reply within 2 business days. Please include your iPhone model, your iOS version, your Dinner Agent version and, if it's about your plan, your household ID. Both are in **Settings → About**.
 
+## Service status
+
+All services are working normally. If Chef, kitchen sharing or the app has a problem, we'll post a short note here saying what's affected and when it's fixed.
+
 **What Dinner Agent does.** Dinner Agent keeps your pantry, this week's dinners and one grocery list in step, for the whole household. Every dinner is checked against everyone's allergies and diets. Chef, an AI personal chef, can plan your week, swap dinners, read receipts, import recipes and talk you through cooking.
 
 ## Getting started
