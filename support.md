@@ -30,7 +30,7 @@ All services are working normally. If Chef, kitchen sharing or the app has a pro
 
 **Restore purchases.** On a new phone or after reinstalling, open Settings → Get Plus and tap **Restore purchases**, signed in with the Apple Account you bought with. One subscription covers everyone in your household.
 
-**Sharing your kitchen.** Settings → Share your kitchen → Invite someone. When they open the link, they share your pantry, plan, grocery list and recipes through iCloud. Chats and what Chef remembers stay on each person's own phone.
+**Sharing your kitchen.** Settings → Share your kitchen → Invite someone. When they open the link, they share your pantry, plan, grocery list and recipes through iCloud. Chats and what Chef remembers stay on each person's own phone. If someone leaves, or you stop sharing, their phone keeps a copy of the kitchen as it was but no longer has your Plus. Leave or stop any time in Settings → Share your kitchen.
 
 **Delete your account.** Settings → Delete account. If you're the last adult, your household's record on our server is deleted too. Deleting doesn't cancel a subscription, so cancel it with Apple first.
 
