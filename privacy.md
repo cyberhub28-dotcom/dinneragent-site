@@ -2,7 +2,7 @@
 title: Dinner Agent Privacy Policy
 ---
 
-Effective October 15, 2026. Last updated October 29, 2026.
+Effective October 15, 2026. Last updated November 3, 2026.
 
 Dinner Agent is an iPhone app that helps your household plan dinners, keep track of food and shop. It’s made by CyberHub Software, LLC (“we”, “us”). This policy explains what we collect, where it goes, how long we keep it and the choices you have. Contact: support@cyberhubsoftware.com.
 

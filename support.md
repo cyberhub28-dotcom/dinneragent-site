@@ -19,8 +19,8 @@ All services are working normally. If Chef, kitchen sharing or the app has a pro
 ## Plans
 
 - **Free:** pantry, grocery list, weekly plans, your recipes, cooking mode and allergy checks. Free includes 250 built-in recipes that change each month; Plus opens every recipe.
-- **Plus** ($6.99 a month or $59.99 a year, US): Chef, receipt scans, recipe imports and Chef-written plans for the whole household, plus 5 call minutes a month.
-- **Plus + Chef Live** ($9.99 a month or $99.99 a year, US): everything in Plus, with up to 30 call minutes a month.
+- **Plus** (monthly or yearly; the App Store shows your price): Chef, receipt scans, recipe imports and Chef-written plans for the whole household, plus 5 call minutes a month.
+- **Plus + Chef Live** (monthly or yearly; the App Store shows your price): everything in Plus, with up to 30 call minutes a month.
 - The price shown in the App Store before you buy is the one that applies. Unused minutes don't carry over. Each plan has a fair monthly amount of AI use.
 - **Free week:** new subscribers may get a free week from Apple, once per Apple Account for each subscription group. During the free week, Chef answers in chat with shorter answers; calls with Chef start when your plan does. Cancel at least 24 hours before it ends and you won't be charged.
 
