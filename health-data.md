@@ -15,6 +15,8 @@ Only to check meals, recipes, swaps and Chef's suggestions against them, and so 
 ## Where it comes from
 Only from you: when you add or edit a profile, or when you type or say it to Chef.
 
+Before the first allergy or diet is saved on your iPhone, the app asks for your OK and links this page. If you say no, the app saves no new allergies or diets on that iPhone, and it can't check meals for them. When you add someone else's, you confirm they agreed, or that you're their parent or guardian.
+
 ## Where it's kept
 On your iPhone. If you turn on Share your kitchen, it's also kept in your iCloud account and shared, through Apple, with the people you invite. Our server doesn't store it, except a Chef answer you choose to report (kept up to 1 year), or the kitchen notes Chef uses during a call, which are deleted when the call ends. Before a report is sent, names, allergies and diets from your profiles are swapped for labels like "Person A", "[allergy]" and "[diet]".
 
@@ -25,5 +27,6 @@ Only when Chef is on: Anthropic (Claude), and xAI (Grok) on calls and steps read
 
 - See it: Settings → Household shows every profile.
 - Delete it: edit or delete a profile, or Settings → Delete account.
+- Take back your OK: Settings → Allergies and diets. No new allergies or diets are saved on that iPhone. The ones already saved stay until you remove them, so meals are still checked.
 - Stop sharing it: turn Chef off in Settings → Chef.
 - Ask us anything, or appeal a decision: email support@cyberhubsoftware.com. We reply within 45 days.
