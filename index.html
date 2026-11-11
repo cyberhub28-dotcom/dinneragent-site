@@ -1,0 +1,255 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Dinner Agent: Pantry, plans and a chef</title>
+<meta name="description" content="Your pantry, this week’s dinners and one grocery list that keep each other in step, with Chef, an AI personal chef you can text or call while you cook.">
+<meta name="color-scheme" content="light dark">
+<meta name="theme-color" content="#1F3A63" media="(prefers-color-scheme: light)">
+<meta name="theme-color" content="#162745" media="(prefers-color-scheme: dark)">
+<link rel="icon" type="image/png" sizes="32x32" href="images/favicon-32.png">
+<link rel="icon" type="image/png" sizes="64x64" href="images/favicon-64.png">
+<link rel="apple-touch-icon" href="images/apple-touch-icon.png">
+<style>
+  :root {
+    --navy: #1F3A63;
+    --brand: #1F3A63;
+    --ink: #172235;
+    --mute: #525D74;
+    --bg: #EDF1F7;
+    --card: #FFFCF5;
+    --line: #D9E0EA;
+    --tomato: #B8432A;
+    --hero-bg: linear-gradient(180deg, #1F3A63 0%, #24467A 100%);
+    --hero-ink: #FFFFFF;
+    --hero-mute: rgba(255, 255, 255, 0.82);
+    --pill-bg: rgba(255, 255, 255, 0.12);
+    --pill-line: rgba(255, 255, 255, 0.32);
+    --shadow: 0 1px 2px rgba(23, 34, 53, 0.06), 0 8px 24px rgba(23, 34, 53, 0.08);
+    --icon-shadow: 0 12px 32px rgba(0, 0, 0, 0.32), 0 2px 6px rgba(0, 0, 0, 0.2);
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --brand: #B2D5BE;
+      --ink: #F4EEE2;
+      --mute: #B3BDD1;
+      --bg: #162745;
+      --card: #1F3358;
+      --line: #31476F;
+      --tomato: #F0805F;
+      --hero-bg: linear-gradient(180deg, #1F3358 0%, #162745 100%);
+      --hero-ink: #F4EEE2;
+      --hero-mute: #B3BDD1;
+      --pill-bg: rgba(178, 213, 190, 0.12);
+      --pill-line: rgba(178, 213, 190, 0.4);
+      --shadow: 0 1px 2px rgba(0, 0, 0, 0.2), 0 8px 24px rgba(0, 0, 0, 0.25);
+    }
+  }
+  * { box-sizing: border-box; }
+  html { -webkit-text-size-adjust: 100%; }
+  body {
+    margin: 0;
+    background: var(--bg);
+    color: var(--ink);
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+    font-size: 17px;
+    line-height: 1.5;
+    -webkit-font-smoothing: antialiased;
+  }
+  .wrap { max-width: 1040px; margin: 0 auto; padding: 0 20px; }
+
+  /* Top */
+  .hero {
+    background: var(--hero-bg);
+    color: var(--hero-ink);
+    text-align: center;
+    padding: calc(56px + env(safe-area-inset-top)) 0 64px;
+  }
+  .app-icon {
+    display: block;
+    width: 128px;
+    height: 128px;
+    margin: 0 auto 24px;
+    border-radius: 22.5%;
+    box-shadow: var(--icon-shadow);
+  }
+  h1 {
+    margin: 0;
+    font-size: clamp(34px, 9vw, 52px);
+    line-height: 1.1;
+    font-weight: 700;
+    letter-spacing: -0.02em;
+  }
+  .subtitle {
+    margin: 8px 0 0;
+    font-size: clamp(20px, 5.4vw, 26px);
+    font-weight: 600;
+    letter-spacing: -0.01em;
+    color: var(--hero-mute);
+  }
+  .promo {
+    max-width: 34em;
+    margin: 20px auto 0;
+    color: var(--hero-mute);
+    text-wrap: balance;
+  }
+  .soon {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    margin-top: 28px;
+    min-height: 44px;
+    padding: 10px 20px;
+    border-radius: 14px;
+    border: 1px solid var(--pill-line);
+    background: var(--pill-bg);
+    font-size: 16px;
+    font-weight: 600;
+  }
+  .soon .dot {
+    width: 8px; height: 8px; border-radius: 50%;
+    background: #B2D5BE;
+  }
+  .ai-note {
+    margin: 16px 0 0;
+    font-size: 14px;
+    color: var(--hero-mute);
+  }
+
+  /* What it does */
+  .lead {
+    max-width: 30em;
+    margin: 56px auto 32px;
+    text-align: center;
+    font-size: clamp(20px, 5vw, 24px);
+    line-height: 1.4;
+    font-weight: 600;
+    letter-spacing: -0.01em;
+    text-wrap: balance;
+  }
+  .features {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 16px;
+    margin: 0 0 64px;
+    padding: 0;
+    list-style: none;
+  }
+  @media (min-width: 640px) {
+    .features { grid-template-columns: 1fr 1fr; }
+  }
+  .card {
+    background: var(--card);
+    border: 1px solid var(--line);
+    border-radius: 18px;
+    padding: 22px 22px 24px;
+    box-shadow: var(--shadow);
+  }
+  .card h2 {
+    margin: 0 0 6px;
+    font-size: 19px;
+    line-height: 1.3;
+    font-weight: 650;
+    color: var(--brand);
+  }
+  .card p { margin: 0; color: var(--mute); }
+
+  /* Footer */
+  footer {
+    border-top: 1px solid var(--line);
+    padding: 24px 0 calc(32px + env(safe-area-inset-bottom));
+    text-align: center;
+  }
+  .links {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 0 8px;
+    margin: 0 0 12px;
+    padding: 0;
+    list-style: none;
+  }
+  .links a {
+    display: inline-flex;
+    align-items: center;
+    min-height: 44px;
+    padding: 0 10px;
+    color: var(--brand);
+    font-size: 15px;
+    font-weight: 500;
+    text-decoration: none;
+    border-radius: 10px;
+  }
+  .links a:hover { text-decoration: underline; }
+  .links a:focus-visible, .soon:focus-visible { outline: 2px solid var(--brand); outline-offset: 2px; }
+  .copy { margin: 0; font-size: 14px; color: var(--mute); }
+  .soon, .links a { white-space: nowrap; }
+  @media (max-width: 359px) {
+    .wrap { padding: 0 16px; }
+    .soon { font-size: 15px; padding: 10px 16px; }
+    .links a { padding: 0 8px; font-size: 14px; }
+  }
+</style>
+</head>
+<body>
+<main>
+  <header class="hero">
+    <div class="wrap">
+      <img class="app-icon" src="images/icon-256.png" srcset="images/icon-256.png 2x, images/icon-512.png 3x" width="128" height="128" alt="Dinner Agent app icon">
+      <h1>Dinner Agent</h1>
+      <p class="subtitle">Pantry, plans and a chef</p>
+      <p class="promo">Your pantry, this week’s dinners and one grocery list that keep each other in step, with Chef, an AI personal chef you can text or call while you cook.</p>
+      <p class="soon"><span class="dot" aria-hidden="true"></span>Coming soon to the App Store</p>
+      <p class="ai-note">Chef is AI and can make mistakes.</p>
+    </div>
+  </header>
+
+  <div class="wrap">
+    <p class="lead">Dinner Agent keeps your pantry, this week's dinners and one grocery list in step, so "what's for dinner?" is already answered.</p>
+
+    <ul class="features">
+      <li class="card">
+        <h2>Plan the week in one tap</h2>
+        <p>Dinner Agent plans your week from what's already in your kitchen and the dishes your household loves.</p>
+      </li>
+      <li class="card">
+        <h2>A pantry that fills itself</h2>
+        <p>Snap a grocery receipt or an order screenshot, check what it found, and your food goes into the pantry, sorted into fridge, freezer and pantry.</p>
+      </li>
+      <li class="card">
+        <h2>One grocery list</h2>
+        <p>The list builds itself from the plan, skips what you already have and shows about what it will cost.</p>
+      </li>
+      <li class="card">
+        <h2>One kitchen for the whole household</h2>
+        <p>Invite your partner or family and everyone shares the same pantry, weekly plan, grocery list and recipes, kept in step through iCloud.</p>
+      </li>
+    </ul>
+
+    <!--
+      SCREENSHOTS: left out until Zack approves a set (taken from the newest TestFlight build, same session as the
+      App Store screenshots). To add them: put the PNGs in images/screens/, uncomment this block, give each image
+      short alt text, and add "Recipe photos are AI-generated images." under the row if any recipe photo shows.
+      No TestFlight banner, real names, tester details, prices or the plan screen. iPhone only.
+
+    <section class="shots" aria-label="Screens from the app">
+      <img src="images/screens/1.png" width="295" height="640" alt="">
+    </section>
+    -->
+  </div>
+</main>
+
+<footer>
+  <div class="wrap">
+    <ul class="links">
+      <li><a href="https://cyberhub28-dotcom.github.io/dinneragent-site/privacy">Privacy</a></li>
+      <li><a href="https://cyberhub28-dotcom.github.io/dinneragent-site/terms">Terms</a></li>
+      <li><a href="https://cyberhub28-dotcom.github.io/dinneragent-site/health-data">Consumer Health Data Privacy Policy</a></li>
+      <li><a href="https://cyberhub28-dotcom.github.io/dinneragent-site/support">Support</a></li>
+    </ul>
+    <p class="copy">© 2026 CyberHub Software, LLC</p>
+  </div>
+</footer>
+</body>
+</html>
