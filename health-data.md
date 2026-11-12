@@ -2,12 +2,12 @@
 title: Dinner Agent Consumer Health Data Privacy Policy
 ---
 
-Effective October 15, 2026. Last updated November 3, 2026.
+Effective October 15, 2026. Last updated November 12, 2026.
 
 This page is for people in Washington, Nevada and other states with consumer health data laws. It adds to our Privacy Policy. Dinner Agent is made by CyberHub Software, LLC ("we", "us"). Contact: support@cyberhubsoftware.com.
 
 ## What we collect
-Allergies, food intolerances and diets you enter for people in your household, for example "peanut allergy" or "vegetarian". We don't collect any other health data.
+Allergies, food intolerances and diets you enter for people in your household, for example "peanut allergy" or "vegetarian". We don't collect any other health data. If you choose to tell Chef about a health condition, it is sent to Anthropic, or to xAI on a call, to answer you, like anything else you type or say. Chef is told not to save it.
 
 ## Why
 Only to check meals, recipes, swaps and Chef's suggestions against them, and so Chef can use your household's allergy list when answering. We never use them for ads, and we never use them to infer anything else about you.
