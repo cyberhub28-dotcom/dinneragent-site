@@ -2,7 +2,7 @@
 title: Dinner Agent Terms of Use
 ---
 
-Effective October 15, 2026. Last updated November 3, 2026.
+Effective October 15, 2026. Last updated November 12, 2026.
 
 Dinner Agent is made by CyberHub Software, LLC (“we”, “us”) and is licensed to you under Apple’s standard Licensed Application End User License Agreement: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/. This page adds a few notices about Dinner Agent and the details of Plus and Plus + Chef Live. By using the app you agree to both. If they disagree about something between you and us, these terms apply as far as the law and Apple’s agreement allow.
 
@@ -46,7 +46,7 @@ If you think something in Dinner Agent uses your work without permission, email 
 You can delete your account any time in Settings. Deleting doesn’t cancel a subscription, so cancel it with Apple. We may suspend accounts that break these terms.
 
 ## Limits on our responsibility
-Dinner Agent is provided “as is” and “as available”. To the fullest extent the law allows, we don’t promise that it will always work, be free of errors, or that Chef’s suggestions are right for you. To the fullest extent the law allows, we aren’t responsible for indirect, incidental, special or consequential losses, such as lost profits or lost data. Our total responsibility for any claim about Dinner Agent is limited to the greater of what you paid for Dinner Agent in the 12 months before the claim, or $50. Nothing in these terms limits any responsibility that the law doesn’t let us limit, such as for death or personal injury caused by our negligence, or for fraud. Some states don’t allow some of these limits, so they may not apply to you.
+Dinner Agent is provided “as is” and “as available”. To the fullest extent the law allows, we don’t promise that it will always work, be free of errors, or that Chef’s suggestions are right for you. To the fullest extent the law allows, we aren’t responsible for indirect, incidental, special or consequential losses, such as lost profits or lost data. Our total responsibility for any claim about Dinner Agent is limited to the greater of what you paid for Dinner Agent in the 12 months before the claim, or $50. Nothing in these terms limits our responsibility where the law doesn’t allow a limit, for example for fraud or for harm we cause on purpose. Some states don’t allow some of these limits, so they may not apply to you.
 
 ## Settling a dispute
 Please read this section carefully. It affects your rights.
