@@ -2,7 +2,7 @@
 title: Dinner Agent Privacy Policy
 ---
 
-Effective October 15, 2026. Last updated November 3, 2026.
+Effective October 15, 2026. Last updated November 12, 2026.
 
 Dinner Agent is an iPhone app that helps your household plan dinners, keep track of food and shop. It’s made by CyberHub Software, LLC (“we”, “us”). This policy explains what we collect, where it goes, how long we keep it and the choices you have. Contact: support@cyberhubsoftware.com.
 
@@ -13,7 +13,7 @@ Most of your kitchen stays on your iPhone. Our server keeps a random household I
 Your household profiles (names, ages, allergies, diets and tastes), pantry, grocery list, weekly plans, your recipes and photos, Chef conversations, what Chef remembers, and the audio of steps already read aloud in Chef’s voice are saved on your iPhone. We don’t copy them to our servers.
 
 ## Signing in
-You can start without an account. If you sign in with Apple, Apple gives the app a private ID for you and, if you choose, your first name. Both stay on your iPhone. We don’t receive your email address. Your birthday is checked on your iPhone and never saved: the app keeps only that you’re 18 or older. If someone under 18 tries to sign up, the iPhone remembers it, so the app stays closed to them on that phone.
+You sign in with Apple. Apple gives the app a private ID for you and, if you choose, your first name. Both stay on your iPhone. We don’t receive your email address. Your birthday is checked on your iPhone and never saved: the app keeps only that you’re 18 or older. If someone under 18 tries to sign up, the iPhone remembers it, so the app stays closed to them on that phone.
 
 ## Sharing your kitchen
 Only if you turn on Share your kitchen: your household profiles, pantry, weekly plans, grocery list, recipes, stores and favorites are kept in your iCloud account and shared, through Apple, with the people you invite. They’re encrypted, and we can’t see them. Chef conversations, what Chef remembers and your alerts stay on your own iPhone. Stop sharing or leave any time in Settings → Share your kitchen.
