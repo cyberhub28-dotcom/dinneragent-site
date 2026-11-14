@@ -2,7 +2,7 @@
 title: Dinner Agent Consumer Health Data Privacy Policy
 ---
 
-Effective October 15, 2026. Last updated November 12, 2026.
+Effective October 15, 2026. Last updated November 14, 2026.
 
 This page is for people in Washington, Nevada and other states with consumer health data laws. It adds to our Privacy Policy. Dinner Agent is made by CyberHub Software, LLC ("we", "us"). Contact: support@cyberhubsoftware.com.
 
@@ -22,6 +22,8 @@ On your iPhone. If you turn on Share your kitchen, it's also kept in your iCloud
 
 ## Who receives it
 Only when Chef is on: Anthropic (Claude), and xAI (Grok) on calls and steps read aloud, so Chef can answer you. Names from profiles are swapped for labels like "Person A" first. Neither company uses it to train AI. We don't sell it, and we don't share it with anyone else. Cloudflare, our server host, carries Chef's requests between your iPhone and these companies and doesn't keep what's in them.
+
+Each person in a shared kitchen decides for their own profile. If someone says no, no phone in the kitchen sends their allergies or diet to Anthropic or xAI.
 
 ## Your rights
 

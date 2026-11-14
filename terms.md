@@ -2,7 +2,7 @@
 title: Dinner Agent Terms of Use
 ---
 
-Effective October 15, 2026. Last updated November 12, 2026.
+Effective October 15, 2026. Last updated November 14, 2026.
 
 Dinner Agent is made by CyberHub Software, LLC (“we”, “us”) and is licensed to you under Apple’s standard Licensed Application End User License Agreement: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/. This page adds a few notices about Dinner Agent and the details of Plus and Plus + Chef Live. By using the app you agree to both. If they disagree about something between you and us, these terms apply as far as the law and Apple’s agreement allow.
 
