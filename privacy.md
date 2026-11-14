@@ -2,7 +2,7 @@
 title: Dinner Agent Privacy Policy
 ---
 
-Effective October 15, 2026. Last updated November 12, 2026.
+Effective October 15, 2026. Last updated November 14, 2026.
 
 Dinner Agent is an iPhone app that helps your household plan dinners, keep track of food and shop. It’s made by CyberHub Software, LLC (“we”, “us”). This policy explains what we collect, where it goes, how long we keep it and the choices you have. Contact: support@cyberhubsoftware.com.
 
@@ -16,7 +16,7 @@ Your household profiles (names, ages, allergies, diets and tastes), pantry, groc
 You sign in with Apple. Apple gives the app a private ID for you and, if you choose, your first name. Both stay on your iPhone. We don’t receive your email address. Your birthday is checked on your iPhone and never saved: the app keeps only that you’re 18 or older. If someone under 18 tries to sign up, the iPhone remembers it, so the app stays closed to them on that phone.
 
 ## Sharing your kitchen
-Only if you turn on Share your kitchen: your household profiles, pantry, weekly plans, grocery list, recipes, stores and favorites are kept in your iCloud account and shared, through Apple, with the people you invite. They’re encrypted, and we can’t see them. Chef conversations, what Chef remembers and your alerts stay on your own iPhone. Stop sharing or leave any time in Settings → Share your kitchen.
+Only if you turn on Share your kitchen: your household profiles, pantry, weekly plans, grocery list, recipes, stores and favorites are kept in your iCloud account and shared, through Apple, with the people you invite. They’re encrypted, and we can’t see them. Each person’s choice about sharing with AI is shared too, so every phone follows it. Chef conversations, what Chef remembers and your alerts stay on your own iPhone. Stop sharing or leave any time in Settings → Share your kitchen.
 
 ## What our server keeps
 To run Plus, Chef and calls, our server keeps:
@@ -49,6 +49,8 @@ Claude, by Anthropic, receives:
 - the receipts and order screenshots you scan
 - the recipes you import (from a link, photo or pasted text)
 - kitchen notes: your pantry, plan, list, budget, recipes, and each person’s age, diet, allergies and tastes
+
+Each person in a shared kitchen decides for their own profile. If someone says no, no phone in the kitchen sends their age, diet, allergies or tastes to Anthropic or xAI, and Chef tells you it can’t check meals for them. Profiles for people who don’t use the app, like children, follow the choice of the adult who added them; if we can’t tell who that was, a no from any adult in the kitchen leaves them out.
 
 Grok, by xAI, receives your voice and the same kitchen notes during a call with Chef, and the words of recipe steps read aloud in Chef’s voice.
 
