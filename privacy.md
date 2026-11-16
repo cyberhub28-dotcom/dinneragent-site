@@ -2,7 +2,7 @@
 title: Dinner Agent Privacy Policy
 ---
 
-Effective October 15, 2026. Last updated November 14, 2026.
+Effective October 15, 2026. Last updated November 16, 2026.
 
 Dinner Agent is an iPhone app that helps your household plan dinners, keep track of food and shop. It’s made by CyberHub Software, LLC (“we”, “us”). This policy explains what we collect, where it goes, how long we keep it and the choices you have. Contact: support@cyberhubsoftware.com.
 
@@ -99,7 +99,7 @@ Wherever you live, you can ask us to:
 
 Residents of California (CCPA/CPRA) and of other states with privacy laws, including Virginia, Colorado, Connecticut, Utah, Texas, Oregon and others, have these rights by law. They also have the right to appeal a decision and to not be treated differently for using them.
 
-To make a request, email support@cyberhubsoftware.com, or use Settings → Delete account. We’ll check it’s you before we act, for example by asking you to confirm the request from the Dinner Agent app on your phone, and we reply within 45 days. If we decline, reply to our answer to appeal. You can use an authorized agent.
+To make a request, email support@cyberhubsoftware.com, or use Settings → Delete account. We’ll check it’s you before we act, for example by asking you to confirm the request from the Dinner Agent app on your phone, and we reply within 45 days. When we delete your data, we also tell our partners who handled it, like Anthropic and xAI for Chef, to delete it. If we decline, reply to our answer to appeal. You can use an authorized agent.
 
 In the last 12 months, the categories of information we handled were:
 
