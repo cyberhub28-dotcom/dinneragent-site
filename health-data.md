@@ -28,7 +28,7 @@ Each person in a shared kitchen decides for their own profile. If someone says n
 ## Your rights
 
 - See it: Settings → Household shows every profile.
-- Delete it: edit or delete a profile, or Settings → Delete account.
+- Delete it: edit or delete a profile, or Settings → Delete account. In a shared kitchen, Delete account removes your own profile; the others' profiles stay with them. When we delete it, we also tell our partners who handled it, like Anthropic and xAI for Chef, to delete it.
 - Take back your OK: Settings → Allergies and diets. No new allergies or diets are saved on that iPhone. The ones already saved stay until you remove them, so meals are still checked.
 - Stop sharing it: turn Chef off in Settings → Chef.
 - Ask us anything, or appeal a decision: email support@cyberhubsoftware.com. We reply within 45 days.

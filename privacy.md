@@ -76,7 +76,8 @@ We don’t sell or share your personal information (including “sharing” for 
 | What | Where | How long |
 |---|---|---|
 | Profiles, pantry, plans, recipes, photos, chats, Chef memory, saved read-aloud audio | Your iPhone (and iCloud if sharing) | Until you delete them or your account |
-| Household ID, household secret, app security keys, plan and renew/end dates | Our server | Until the last adult deletes the account |
+| Household ID, household secret, plan and renew/end dates | Our server | Until the last adult in the kitchen deletes their account |
+| App security keys for each device | Our server | Until that person deletes their account, or the last adult deletes theirs |
 | Reported answers and notes | Our server | Up to 1 year, or until account deletion if sooner |
 | AI usage and cost counts; call lengths and call diagnostics (response times, never audio) | Our server | Kept as totals. On deletion, unlinked from you |
 | Chef’s kitchen notes for a call in progress | Our server | Until the call ends (at most about 17 minutes) |
@@ -124,7 +125,7 @@ Data in transit is encrypted. Our server doesn’t store names or chats, except 
 
 - Turn Chef off: Settings → Chef.
 - See or clear what Chef remembers: Settings → What Chef remembers.
-- Delete everything: Settings → Delete account. This erases the data on your phone. If you signed in with Apple, we also ask Apple to remove Dinner Agent’s sign-in. For the last adult, it also deletes your household’s record, app security keys and reported answers on our server. Usage counts and Apple purchase records stay only unlinked from you. Backups of deleted records are gone within 30 days.
+- Delete everything: Settings → Delete account. This erases the data on this phone and removes your own profile from a shared kitchen. If you signed in with Apple, we also ask Apple to remove Dinner Agent’s sign-in. If other adults still share your kitchen, we remove your access to our server and change your kitchen’s secret code. The kitchen stays for them. If you are the last adult, we also delete your household’s record, its app security keys and its reported answers on our server, and every device in the kitchen loses access, including your own other devices. Usage counts and Apple purchase records stay only unlinked from you. Backups of deleted records are gone within 30 days.
 - Ask for a copy of your server data, or anything else: email support@cyberhubsoftware.com.
 
 ## Changes
