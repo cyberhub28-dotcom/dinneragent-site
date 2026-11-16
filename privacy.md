@@ -100,7 +100,7 @@ Wherever you live, you can ask us to:
 
 Residents of California (CCPA/CPRA) and of other states with privacy laws, including Virginia, Colorado, Connecticut, Utah, Texas, Oregon and others, have these rights by law. They also have the right to appeal a decision and to not be treated differently for using them.
 
-To make a request, email support@cyberhubsoftware.com, or use Settings → Delete account. We’ll check it’s you before we act, for example by asking you to confirm the request from the Dinner Agent app on your phone, and we reply within 45 days. When we delete your data, we also tell our partners who handled it, like Anthropic and xAI for Chef, to delete it. If we deny your appeal, we’ll explain why and tell you how to contact your state Attorney General to file a complaint. You can use an authorized agent.
+To make a request, email support@cyberhubsoftware.com, or use Settings → Delete account. We’ll check it’s you before we act, for example by asking you to confirm the request from the Dinner Agent app on your phone, and we reply within 45 days. When we delete your data, we also tell our partners who handled it, like Anthropic and xAI for Chef, to delete it. If we decline your request, reply to our answer to appeal. We’ll answer your appeal within 60 days. If we deny your appeal, we’ll explain why and tell you how to contact your state Attorney General to file a complaint. You can use an authorized agent.
 
 In the last 12 months, the categories of information we handled were:
 
