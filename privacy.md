@@ -2,7 +2,7 @@
 title: Dinner Agent Privacy Policy
 ---
 
-Effective October 15, 2026. Last updated November 14, 2026.
+Effective October 15, 2026. Last updated November 16, 2026.
 
 Dinner Agent is an iPhone app that helps your household plan dinners, keep track of food and shop. It’s made by CyberHub Software, LLC (“we”, “us”). This policy explains what we collect, where it goes, how long we keep it and the choices you have. Contact: support@cyberhubsoftware.com.
 
@@ -38,7 +38,7 @@ To stop abuse, our server briefly counts requests from each internet (IP) addres
 ## Emails to us
 If you email us, we use your email address and message only to help you. They’re kept in our email (Gmail, by Google) for as long as we need them to help you, and we delete them if you ask.
 
-Emails you send to support@cyberhubsoftware.com arrive in our Google Workspace mailbox (Gmail, by Google). Google handles them only to deliver and store your message.
+Emails you send to support@cyberhubsoftware.com arrive in our Google Workspace mailbox (Gmail, by Google). Google handles them only to deliver and store your message. We may use Claude, an AI assistant by Anthropic, to help us read and answer your email. It handles your message only to help us reply.
 
 ## AI partners
 Chef’s AI is used only after you turn Chef on.
@@ -69,14 +69,15 @@ When you scan a barcode, the barcode number is looked up in Open Food Facts, a f
 Subscriptions are bought and managed through Apple. Apple tells us whether a purchase is active. It never shares your card details with us. Reminders and alerts are scheduled by your iPhone.
 
 ## What we don’t do
-We don’t sell or share your personal information (including “sharing” for cross-context behavioral advertising), we don’t show ads, and we don’t track you across other apps and websites. We don’t use your information to profile you for decisions with legal effects. Because we don’t track, we treat Global Privacy Control and Do Not Track signals as already honored.
+We don’t sell or share your personal information (including “sharing” for cross-context behavioral advertising), we don’t show ads, and we don’t track you across other apps and websites. We don’t use your information to profile you for decisions with legal effects. We don’t use your information to train AI models, and our AI partners don’t either. Because we don’t track, we treat Global Privacy Control and Do Not Track signals as already honored.
 
 ## How long we keep things
 
 | What | Where | How long |
 |---|---|---|
 | Profiles, pantry, plans, recipes, photos, chats, Chef memory, saved read-aloud audio | Your iPhone (and iCloud if sharing) | Until you delete them or your account |
-| Household ID, household secret, app security keys, plan and renew/end dates | Our server | Until the last adult deletes the account |
+| Household ID, household secret, plan and renew/end dates | Our server | Until the last adult in the kitchen deletes their account |
+| App security keys for each device | Our server | Until that person deletes their account, or the last adult deletes theirs |
 | Reported answers and notes | Our server | Up to 1 year, or until account deletion if sooner |
 | AI usage and cost counts; call lengths and call diagnostics (response times, never audio) | Our server | Kept as totals. On deletion, unlinked from you |
 | Chef’s kitchen notes for a call in progress | Our server | Until the call ends (at most about 17 minutes) |
@@ -99,7 +100,7 @@ Wherever you live, you can ask us to:
 
 Residents of California (CCPA/CPRA) and of other states with privacy laws, including Virginia, Colorado, Connecticut, Utah, Texas, Oregon and others, have these rights by law. They also have the right to appeal a decision and to not be treated differently for using them.
 
-To make a request, email support@cyberhubsoftware.com, or use Settings → Delete account. We’ll check it’s you before we act, for example by asking you to confirm the request from the Dinner Agent app on your phone, and we reply within 45 days. If we decline, reply to our answer to appeal. You can use an authorized agent.
+To make a request, email support@cyberhubsoftware.com, or use Settings → Delete account. We’ll check it’s you before we act, for example by asking you to confirm the request from the Dinner Agent app on your phone, and we reply within 45 days. When we delete your data, we also tell our partners who handled it, like Anthropic and xAI for Chef, to delete it. If we decline your request, reply to our answer to appeal. We’ll answer your appeal within 60 days. If we deny your appeal, we’ll explain why and tell you how to contact your state Attorney General to file a complaint. You can use an authorized agent.
 
 In the last 12 months, the categories of information we handled were:
 
@@ -124,7 +125,7 @@ Data in transit is encrypted. Our server doesn’t store names or chats, except 
 
 - Turn Chef off: Settings → Chef.
 - See or clear what Chef remembers: Settings → What Chef remembers.
-- Delete everything: Settings → Delete account. This erases the data on your phone. If you signed in with Apple, we also ask Apple to remove Dinner Agent’s sign-in. For the last adult, it also deletes your household’s record, app security keys and reported answers on our server. Usage counts and Apple purchase records stay only unlinked from you. Backups of deleted records are gone within 30 days.
+- Delete everything: Settings → Delete account. This erases the data on this phone and removes your own profile from a shared kitchen. If you signed in with Apple, we also ask Apple to remove Dinner Agent’s sign-in. If other adults still share your kitchen and you’re a member, we remove your access to our server and change your kitchen’s secret code. The kitchen stays for them. If you set up the sharing, sharing ends: we delete the household’s record on our server, and each other adult keeps a copy as their own kitchen, without your profile. They sign up again, and whoever pays for Plus can get it back with Restore purchases. If you are the last adult, we also delete your household’s record, its app security keys and its reported answers on our server, and every device in the kitchen loses access, including your own other devices. Usage counts and Apple purchase records stay only unlinked from you. Backups of deleted records are gone within 30 days.
 - Ask for a copy of your server data, or anything else: email support@cyberhubsoftware.com.
 
 ## Changes
