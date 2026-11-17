@@ -33,7 +33,7 @@ On a call, Chef hears what your iPhone’s microphone picks up, which can includ
 
 Receipts, order screenshots and recipes you ask us to read pass through our server to Claude and aren’t stored by us. When you import a recipe link, your iPhone opens the page, like Safari would. If it can’t, our server opens it instead. If you report one of Chef’s answers, we keep that answer and your note for up to 1 year so a person can review it. Before a report is sent, names, allergies and diets from your profiles are swapped for labels like “Person A”, “[allergy]” and “[diet]” in the answer and your note.
 
-To stop abuse, our server briefly counts requests from each internet (IP) address; those counts are deleted within about 10 minutes. Our server host, Cloudflare, keeps short technical logs (which feature was used, whether it worked, and the first few characters of the household ID, never what you said) for a short time.
+To stop abuse, our server briefly counts requests from each internet (IP) address; those counts are deleted within about 10 minutes. Our server host, Cloudflare, keeps short technical logs (which feature was used, whether it worked, and the first few characters of the household ID, never what you said) for a short time. These logs are deleted automatically within 7 days.
 
 ## Emails to us
 If you email us, we use your email address and message only to help you. They’re kept in our email (Gmail, by Google) for as long as we need them to help you, and we delete them if you ask.
@@ -83,6 +83,7 @@ We don’t sell or share your personal information (including “sharing” for 
 | Chef’s kitchen notes for a call in progress | Our server | Until the call ends (at most about 17 minutes) |
 | Apple purchase ID and refund records | Our server | Kept after deletion, unlinked from your household, so a purchase can’t be reused |
 | Request counts by IP address | Our server | About 10 minutes |
+| Technical logs (which feature was used, whether it worked, and the first few characters of your household ID) | Our server host | Up to 7 days, then deleted automatically |
 | Read-aloud audio of recipe steps | Our server | Up to 1 year |
 | Copies of deleted server records in backups | Our server host | Up to 30 days |
 | Receipts, screenshots, imported pages | Pass through only | Not stored by us |
