@@ -8,7 +8,7 @@ Questions or problems? Email [**support@cyberhubsoftware.com**](mailto:support@c
 
 All services are working normally. If Chef, kitchen sharing or the app has a problem, we'll post a short note here saying what's affected and when it's fixed.
 
-**What Dinner Agent does.** Dinner Agent keeps your pantry, this week's dinners and one grocery list in step, for the whole household. Every dinner is checked against everyone's allergies and diets. Chef, an AI personal chef, can plan your week, swap dinners, read receipts, import recipes and talk you through cooking.
+**What Dinner Agent does.** Dinner Agent keeps your pantry, this week's dinners and one grocery list in step, for the whole household. Dinner Agent checks every dinner against the allergies and diets saved in the app, once you give your OK in Settings → Allergies and diets. Always read labels. Chef, an AI personal chef, can plan your week, swap dinners, read receipts, import recipes and talk you through cooking.
 
 ## Getting started
 
