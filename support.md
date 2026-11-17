@@ -14,7 +14,7 @@ All services are working normally. If Chef, kitchen sharing or the app has a pro
 
 - Dinner Agent is for adults 18 and over. Pick your birthday, then sign in with Apple. Your birthday isn't saved.
 - Add the people in your household, with their allergies, diets and tastes.
-- Chef's AI is off until you say yes. Without it, your pantry, grocery list, weekly plan, recipes, cooking mode and allergy checks all still work.
+- Chef's AI is off until you say yes. Without it, your pantry, grocery list, weekly plan, recipes and cooking mode still work, and so do allergy checks once you give your OK in Settings → Allergies and diets.
 
 ## Plans
 
