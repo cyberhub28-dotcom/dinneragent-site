@@ -2,7 +2,7 @@
 title: Dinner Agent Privacy Policy
 ---
 
-Effective October 15, 2026. Last updated November 16, 2026.
+Effective October 15, 2026. Last updated November 19, 2026.
 
 Dinner Agent is an iPhone app that helps your household plan dinners, keep track of food and shop. It’s made by CyberHub Software, LLC (“we”, “us”). This policy explains what we collect, where it goes, how long we keep it and the choices you have. Contact: support@cyberhubsoftware.com.
 
@@ -38,7 +38,7 @@ To stop abuse, our server briefly counts requests from each internet (IP) addres
 ## Emails to us
 If you email us, we use your email address and message only to help you. They’re kept in our email (Gmail, by Google) for as long as we need them to help you, and we delete them if you ask.
 
-Emails you send to support@cyberhubsoftware.com arrive in our Google Workspace mailbox (Gmail, by Google). Google handles them only to deliver and store your message. We may use Claude, an AI assistant by Anthropic, to help us read and answer your email. It handles your message only to help us reply.
+Emails you send to support@cyberhubsoftware.com arrive in our Google Workspace mailbox (Gmail, by Google). Google handles them only to deliver and store your message. We use Claude, an AI assistant by Anthropic, to help us read and answer your email. It handles your message only to help us reply.
 
 ## AI partners
 Chef’s AI is used only after you turn Chef on.
