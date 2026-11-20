@@ -38,7 +38,7 @@ To stop abuse, our server briefly counts requests from each internet (IP) addres
 ## Emails to us
 If you email us, we use your email address and message only to help you. They’re kept in our email (Gmail, by Google) for as long as we need them to help you, and we delete them if you ask.
 
-Emails you send to support@cyberhubsoftware.com arrive in our Google Workspace mailbox (Gmail, by Google). Google handles them only to deliver and store your message. We may use Claude, an AI assistant by Anthropic, to help us read and answer your email. It handles your message only to help us reply. We use Claude by Anthropic to help read and answer support email.
+Emails you send to support@cyberhubsoftware.com arrive in our Google Workspace mailbox (Gmail, by Google). Google handles them only to deliver and store your message. We use Claude, an AI assistant by Anthropic, to help us read and answer your email. It handles your message only to help us reply.
 
 ## AI partners
 Chef’s AI is used only after you turn Chef on.
