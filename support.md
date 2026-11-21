@@ -40,6 +40,7 @@ All services are working normally. If Chef, kitchen sharing or the app has a pro
 - **Allergies and food safety.** Dinner Agent checks recipes against the allergies and diets you enter, by ingredient name. It can't see cross-contact, "may contain" warnings or brand recipe changes, and it can't guarantee a food is safe. Always read labels. Food safety guidance in the app comes from USDA. When in doubt, throw it out.
 - **Not medical or nutrition advice.** Dinner Agent isn't a medical tool and doesn't give medical, dietary or nutrition advice. Talk to a doctor or dietitian about allergies, diets and health conditions. In an emergency, call 911.
 - **Recipe photos** are AI-generated images. They show what a dish could look like, not a photo of a real dish.
+- **AI-made art:** Some pictures and icons in Dinner Agent were created with Grok (xAI).
 - Only import recipes you're allowed to keep for your own use.
 - Dinner Agent is provided under Apple's standard licence agreement: <https://www.apple.com/legal/internet-services/itunes/dev/stdeula/>
 
